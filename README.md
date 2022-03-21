@@ -21,3 +21,28 @@
 </tr>
 </tbody>
 </table>
+
+
+These projects were completed during training at Yandex.Practice, the profession "Data Analyst" / "Specialist in Data Science".
+
+<table>
+<thead>
+<tr>
+<th align="left">Project name</th>
+<th align="left">Description</th>
+<th align="left">Libraries Used</th>
+</tr>
+</thing>
+<body>
+<tr>
+<td align="left">Games Popularity Analysis</td>
+<td align="left">In this paper, we analyzed the work of an online store selling computer games.
+The intensity and popularity of computer games over a 40 year period was considered. The analysis of sales by regions of the world was carried out.
+Leaders on platforms and genres of games are defined.
+Hypotheses about the convergence of indicators of platforms and genres were tested.
+This analysis illustrates the activity of the computer games market in four regions of the world, reflects the demand for different platforms depending on the country and the change of generations in the platform market.</td>
+<td align="left"><em> pandas, numpy, matplotlib, performing statistical analysis and checking with the Levine test from the scipy library
+  </em></td>
+</tr>
+</tbody>
+</table>
