@@ -10,7 +10,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/game_sales_statistics">Анализ популярности игр</a></td>
+<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Анализ популярности игр</a></td>
 <td align="left">В данной работе проведен анализ работы интернет магазина по продаже компьютерных игр.
 Была рассмотрена интенсивность и популярность компьютерных игр за 40 летниц период. Проведен анализ продаж по регионам мира.
 Определены лидеры по платформам и жанрам игр.
@@ -39,7 +39,7 @@ These projects were completed during training at Yandex.Practice, the profession
 </thing>
 <body>
 <tr>
-<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/game_sales_statistics">Games Popularity Analysis</a></td>
+<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Games Popularity Analysis</a></td>
 <td align="left">In this paper, we analyzed the work of an online store selling computer games.
 The intensity and popularity of computer games over a 40 year period was considered. The analysis of sales by regions of the world was carried out.
 Leaders on platforms and genres of games are defined.
