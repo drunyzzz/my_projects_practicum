@@ -39,7 +39,7 @@ These projects were completed during training at Yandex.Practice, the profession
 </thing>
 <body>
 <tr>
-<td align="left">Games Popularity Analysis</td>
+<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/game_sales_statistics">Games Popularity Analysis</a></td>
 <td align="left">In this paper, we analyzed the work of an online store selling computer games.
 The intensity and popularity of computer games over a 40 year period was considered. The analysis of sales by regions of the world was carried out.
 Leaders on platforms and genres of games are defined.
