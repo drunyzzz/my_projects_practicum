@@ -16,7 +16,11 @@
 Определены лидеры по платформам и жанрам игр.
 Проверены гипотезы о сходимости показателей платформ и жанров.
 Данный анализ иллюстрирует активность рынка компьютерных игр по четырем регионам мира, отображает востребованность различных платформ в зависимости от страны и смена покалений на рынке платформ.</td>
-<td align="left"><em> pandas, numpy, matplotlib, проведение статистического анализа и проверка тестом Левина из библитотеки scipy
+<td align="left"><em> 
+     <code>pandas</code>
+    <code>numpy</code>
+    <code>matplotlib</code>
+    <code>проведение статистического анализа и проверка тестом Левина из библитотеки scipy</code>
   </em></td>
 </tr>
 </tbody>
@@ -41,8 +45,15 @@ The intensity and popularity of computer games over a 40 year period was conside
 Leaders on platforms and genres of games are defined.
 Hypotheses about the convergence of indicators of platforms and genres were tested.
 This analysis illustrates the activity of the computer games market in four regions of the world, reflects the demand for different platforms depending on the country and the change of generations in the platform market.</td>
-<td align="left"><em> pandas, numpy, matplotlib, performing statistical analysis and checking with the Levine test from the scipy library
+<td align="left">
+  <em> 
+    <code>pandas</code>
+    <code>numpy</code>
+    <code>matplotlib</code>
+    <code>performing statistical analysis and checking with the Levine test from the scipy library</code>
   </em></td>
 </tr>
 </tbody>
 </table>
+
+
