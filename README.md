@@ -10,7 +10,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><a href="https://github.com/Egor-Usov/my_first_repository/tree/main/1.Music_project">Анализ популярности игр</a></td>
+<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/game_sales_statistics">Анализ популярности игр</a></td>
 <td align="left">В данной работе проведен анализ работы интернет магазина по продаже компьютерных игр.
 Была рассмотрена интенсивность и популярность компьютерных игр за 40 летниц период. Проведен анализ продаж по регионам мира.
 Определены лидеры по платформам и жанрам игр.
