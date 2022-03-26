@@ -9,6 +9,17 @@
 </tr>
 </thead>
 <tbody>
+ 
+ <tr>
+<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Анализ популярности музыки в двух столицах</a></td>
+<td align="left">В данной работе проведен анализ данных Яндекс.Музыка для проверки гипотез по активности и предпочтений пльзователей Москвы и Санкт-Петербурга.
+Основной уклон работы направлен предварительную обработку данных по приведению труктуры данных к единому формату, исключение ситуаций с пропусками и дубликатами, создание и использование функций.
+</td>
+<td align="left"><em> 
+    <code>pandas</code>
+  </em></td>
+</tr>    
+     
 <tr>
 <td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Анализ популярности игр</a></td>
 <td align="left">В данной работе проведен анализ работы интернет магазина по продаже компьютерных игр.
@@ -38,6 +49,17 @@ These projects were completed during training at Yandex.Practice, the profession
 </tr>
 </thing>
 <body>
+
+ <tr>
+<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Music popularity analysis in two capitals</a></td>
+<td align="left">In this paper, we analyzed Yandex.Music data to test hypotheses on the activity and preferences of users in Moscow and St. Petersburg.
+The main bias of the work is directed to the preliminary processing of data to bring the data structure to a single format, the elimination of situations with gaps and duplicates, the creation and use of functions.
+</td>
+<td align="left"><em>
+     <code>pandas</code>
+   </em></td>
+</tr>
+     
 <tr>
 <td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Games Popularity Analysis</a></td>
 <td align="left">In this paper, we analyzed the work of an online store selling computer games.
