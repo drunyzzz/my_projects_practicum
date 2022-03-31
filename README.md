@@ -31,10 +31,24 @@
     <code>проведение статистического анализа и проверка тестом Левина из библитотеки scipy</code>
   </em></td>
 </tr>
+
+<tr>
+<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Классификация слов на токсичность</a></td>
+<td align="left">Разработка модели машинного обучения по определению токсичности комментария
+ </td>
+<td align="left"><em> 
+     <code>pandas</code>
+    <code>numpy</code>
+    <code>nltk\WordNetLemmatizer</code>
+    <code>TfidfVectorizer</code>
+    <code>LogisticRegression</code>
+    <code>sklearn\metrics</code>
+  </em></td>
+</tr>
 </tbody>
 </table>
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 These projects were completed during training at Yandex.Practice, the profession "Data Analyst" / "Specialist in Data Science".
 
 <table>
@@ -66,6 +80,20 @@ These projects were completed during training at Yandex.Practice, the profession
     <code>matplotlib</code>
     <code>performing statistical analysis and checking with the Levine test from the scipy library</code>
   </em></td>
+</tr>
+ 
+ <tr>
+<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Toxicity classification of words</a></td>
+<td align="left">Developing a machine learning model for comment toxicity
+  </td>
+<td align="left"><em>
+      <code>pandas</code>
+     <code>numpy</code>
+     <code>nltk\WordNetLemmatizer</code>
+     <code>TfidfVectorizer</code>
+     <code>LogisticRegression</code>
+     <code>sklearn\metrics</code>
+   </em></td>
 </tr>
 </tbody>
 </table>
