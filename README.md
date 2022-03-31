@@ -22,11 +22,8 @@
      
 <tr>
 <td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Анализ популярности игр</a></td>
-<td align="left">В данной работе проведен анализ работы интернет магазина по продаже компьютерных игр.
-Была рассмотрена интенсивность и популярность компьютерных игр за 40 летниц период. Проведен анализ продаж по регионам мира.
-Определены лидеры по платформам и жанрам игр.
-Проверены гипотезы о сходимости показателей платформ и жанров.
-Данный анализ иллюстрирует активность рынка компьютерных игр по четырем регионам мира, отображает востребованность различных платформ в зависимости от страны и смена покалений на рынке платформ.</td>
+<td align="left">Анализ продажи компьютерных игр для разных платформ в зависимости от времени, стран мира и жанров.
+ </td>
 <td align="left"><em> 
      <code>pandas</code>
     <code>numpy</code>
@@ -61,11 +58,7 @@ These projects were completed during training at Yandex.Practice, the profession
      
 <tr>
 <td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Games Popularity Analysis</a></td>
-<td align="left">In this paper, we analyzed the work of an online store selling computer games.
-The intensity and popularity of computer games over a 40 year period was considered. The analysis of sales by regions of the world was carried out.
-Leaders on platforms and genres of games are defined.
-Hypotheses about the convergence of indicators of platforms and genres were tested.
-This analysis illustrates the activity of the computer games market in four regions of the world, reflects the demand for different platforms depending on the country and the change of generations in the platform market.</td>
+<td align="left">Analysis of the sale of computer games for different platforms depending on the time, countries of the world and genres..</td>
 <td align="left">
   <em> 
     <code>pandas</code>
