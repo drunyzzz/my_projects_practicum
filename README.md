@@ -12,8 +12,8 @@
  
  <tr>
 <td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/yandex_music_analysis">Анализ Яндекс.Музыки</a></td>
-<td align="left">В данной работе проведен анализ данных Яндекс.Музыка для проверки гипотез по активности и предпочтений пльзователей Москвы и Санкт-Петербурга.
-Основной уклон работы направлен предварительную обработку данных по приведению труктуры данных к единому формату, исключение ситуаций с пропусками и дубликатами, создание и использование функций.
+<td align="left">
+Анализ пользователей Яндекс.Музыка по предпочтениям к музыкальным жанрам в зависимости от места проживания и времени суток.
 </td>
 <td align="left"><em> 
     <code>pandas</code>
@@ -52,8 +52,7 @@ These projects were completed during training at Yandex.Practice, the profession
 
  <tr>
 <td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/yandex_music_analysis">Yandex music analysis</a></td>
-<td align="left">In this paper, we analyzed Yandex.Music data to test hypotheses on the activity and preferences of users in Moscow and St. Petersburg.
-The main bias of the work is directed to the preliminary processing of data to bring the data structure to a single format, the elimination of situations with gaps and duplicates, the creation and use of functions.
+<td align="left">Analysis of Yandex.Music users by preferences for musical genres depending on their place of residence and time of day.
 </td>
 <td align="left"><em>
      <code>pandas</code>
