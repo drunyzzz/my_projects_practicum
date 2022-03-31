@@ -33,7 +33,7 @@
 </tr>
 
 <tr>
-<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Классификация слов на токсичность</a></td>
+<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/t%D0%B5xicity_classification_words">Классификация слов на токсичность</a></td>
 <td align="left">Разработка модели машинного обучения по определению токсичности комментария
  </td>
 <td align="left"><em> 
@@ -83,7 +83,7 @@ These projects were completed during training at Yandex.Practice, the profession
 </tr>
  
  <tr>
-<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/games_popularity_analysis">Toxicity classification of words</a></td>
+<td align="left"><a href="https://github.com/drunyzzz/my_projects_practicum/tree/main/t%D0%B5xicity_classification_words">Toxicity classification of words</a></td>
 <td align="left">Developing a machine learning model for comment toxicity
   </td>
 <td align="left"><em>
